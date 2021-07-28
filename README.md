@@ -4,12 +4,17 @@
  <h5 align="center">B.E in Computer Science & Engineering | Chandigarh University, 2019-2023 </h5>
 </p>Experienced in  Full Stack Web Development, Django Framework, Data Mining , with relevant projects and research works. Holding a good command over programming languages , web technologies and working on real world problems . Willing to take new challenges and works to enhance my knowledge and experience in the related field of study .</p>
 
-<label><img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/c.png" height=60px> </img></label>
-<label><img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/cplus.png" height=50px> </img></label>
-<label><img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/python.png" height=50px> </img></label>
-<label><img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/Java.png" height=50px> </img></label>
-<label><img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/html.png" height=50px> </img></label>
-<label><img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/css.png" height=50px> </img></label>
+<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/cl.png" height=50px> </img></label>
+<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/cplus.png" height=50px> </img></label>
+<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/python.png" height=50px> </img></label>
+<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/Java.png" height=50px> </img></label>
+<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/html.png" height=50px> </img></label>
+<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/css.png" height=50px> </img></label>
+<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/js.png" height=50px> </img></label>
+<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/django.jpg" height=50px> </img></label>
+<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/streamlit.png" height=50px> </img></label>
+<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/bootstrap.png" height=50px> </img></label>
+
 
  
  ![Mrinal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrinalmayank7&show_icons=true)
