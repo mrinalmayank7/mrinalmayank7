@@ -3,9 +3,9 @@
  
 <h2 >Hi there, I'm Mrinal</h2>
   
-  <label><a href="https://www.linkedin.com/in/mrinal-mayank-bb3112200/"><img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/linkedin.png"></img></a> </label>
-<label><a href="https://api.whatsapp.com/send/?phone=+917858832086&text=Hello">&nbsp; <img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/phone.png"></img> </a></label>
-<label><a href="mailto:mrinalmayank7@gmail.com"> &nbsp; <img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/mail.png"> </img></a></label>
+  <label><a href="https://www.linkedin.com/in/mrinal-mayank-bb3112200/"><img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/linkedin.png" height=25px></img></a> </label>
+<label><a href="https://api.whatsapp.com/send/?phone=+917858832086&text=Hello">&nbsp; <img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/phone.png" height=25px></img> </a></label>
+<label><a href="mailto:mrinalmayank7@gmail.com"> &nbsp; <img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/mail.png" height=25px> </img></a></label>
 
 </div>
   
@@ -16,22 +16,22 @@
  <h3>Languages & Tools : </h3>
  <br>
  
-<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/cl.png" height=40px> </img></label>
-<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/cplus.png" height=40px> </img></label>
-<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/python.png" height=40px> </img></label>
-<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/Java.png" height=40px> </img></label>
-<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/html.png" height=40px> </img></label>
-<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/css.png" height=40px> </img></label>
-<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/js.png" height=40px> </img></label>
-<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/django.jpg" height=40px> </img></label>
-<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/streamlit.png" height=40px> </img></label>
-<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/bootstrap.png" height=40px> </img></label>
-<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/atom.png" height=40px> </img></label>
-<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/devcplus.png" height=40px> </img></label>
-<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/vs code.png" height=40px> </img></label>
-<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/eclipse.png" height=40px> </img></label>
-<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/mysql.png" height=40px> </img></label>
-<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/sqlite.png" height=40px> </img></label>
+<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/cl.png" height=35px> </img></label>
+<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/cplus.png" height=35px> </img></label>
+<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/python.png" height=35px> </img></label>
+<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/Java.png" height=35px> </img></label>
+<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/html.png" height=35px> </img></label>
+<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/css.png" height=35px> </img></label>
+<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/js.png" height=35px> </img></label>
+<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/django.jpg" height=35px> </img></label>
+<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/streamlit.png" height=35px> </img></label>
+<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/bootstrap.png" height=35px> </img></label>
+<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/atom.png" height=35px> </img></label>
+<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/devcplus.png" height=35px> </img></label>
+<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/vs code.png" height=35px> </img></label>
+<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/eclipse.png" height=35px> </img></label>
+<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/mysql.png" height=35px> </img></label>
+<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/sqlite.png" height=35px> </img></label>
 
  
 <hr>
