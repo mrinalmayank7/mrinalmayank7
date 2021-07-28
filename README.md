@@ -1,9 +1,12 @@
 
-<h3 align="center">Hi there, I'm Mrinal</h3>
-  <hr>
+<h2 align="center">Hi there, I'm Mrinal</h2>
+  
  <h5 align="center">B.E in Computer Science & Engineering | Chandigarh University, 2019-2023 </h5>
 </p>Experienced in  Full Stack Web Development, Django Framework, Data Mining , with relevant projects and research works. Holding a good command over programming languages , web technologies and working on real world problems . Willing to take new challenges and works to enhance my knowledge and experience in the related field of study .</p>
 
+ <h3 align="center">Languages & Tools</h3>
+ <br>
+ 
 <label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/cl.png" height=50px> </img></label>
 <label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/cplus.png" height=50px> </img></label>
 <label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/python.png" height=50px> </img></label>
@@ -14,7 +17,14 @@
 <label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/django.jpg" height=50px> </img></label>
 <label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/streamlit.png" height=50px> </img></label>
 <label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/bootstrap.png" height=50px> </img></label>
+<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/atom.png" height=50px> </img></label>
+<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/devcplus.png" height=50px> </img></label>
+<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/vs code.png" height=50px> </img></label>
+<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/eclipse.png" height=50px> </img></label>
+<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/mysql.png" height=50px> </img></label>
+<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/sqlite.png" height=50px> </img></label>
 
+<hr>
 
  
  ![Mrinal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrinalmayank7&show_icons=true)
