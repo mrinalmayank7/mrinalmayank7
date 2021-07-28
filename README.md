@@ -1,5 +1,4 @@
- 
-  <h3 align="center">Hi there, I'm Mrinal</h3>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css"><h3 align="center">Hi there, I'm Mrinal</h3>
   <hr>
  <h6 align="center">B.E in Computer Science & Engineering | Chandigarh University, 2019-2023 </h6>
 </p>
