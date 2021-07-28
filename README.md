@@ -8,7 +8,7 @@
  ### Connect with me :
  
 <label><a href="https://www.linkedin.com/in/mrinal-mayank-bb3112200/"><img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/linkedin.png"></img></a> </label>
-<label><a href="tel:7858832086">&nbsp; <img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/phone.png"></img> </a></label>
+<label><a href="tel:8683935412">&nbsp; <img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/phone.png"></img> </a></label>
 <label><a href="mailto:mrinalmayank7@gmail.com"> &nbsp; <img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/mail.png"> </img></a></label>
   
  
