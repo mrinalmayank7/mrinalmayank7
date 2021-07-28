@@ -14,24 +14,8 @@
 
 <div align="center">
  <h3>Languages & Tools : </h3>
- <br>
- 
-<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/cl.png" height=35px> </img></label>
-<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/cplus.png" height=35px> </img></label>
-<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/python.png" height=35px> </img></label>
-<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/Java.png" height=35px> </img></label>
-<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/html.png" height=35px> </img></label>
-<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/css.png" height=35px> </img></label>
-<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/js.png" height=35px> </img></label>
-<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/django.jpg" height=35px> </img></label>
-<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/streamlit.png" height=35px> </img></label>
-<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/bootstrap.png" height=35px> </img></label>
-<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/atom.png" height=35px> </img></label>
-<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/devcplus.png" height=35px> </img></label>
-<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/vs code.png" height=35px> </img></label>
-<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/eclipse.png" height=35px> </img></label>
-<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/mysql.png" height=35px> </img></label>
-<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/sqlite.png" height=35px> </img></label>
+<label> &nbsp;<img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/bg1.png" width="100%"> </img></label>
+
 
  
 <hr>
