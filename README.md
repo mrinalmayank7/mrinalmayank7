@@ -1,4 +1,4 @@
-    <hr color="#1C2833" style="margin-top:5px;">
+ <hr color="#1C2833" style="margin-top:5px;">
     <p style="color:white;font-size:14px;font-weight:500;margin-top:5px;">B.E in Computer Science & Engineering </p>
     <p style="color:#85929E;font-size:13px;margin:2px;">Chandigarh University, 2019-2023</p>
      
