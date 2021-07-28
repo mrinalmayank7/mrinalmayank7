@@ -7,7 +7,11 @@
 
  <h4>CONNECT</h4>
 
-<a href="mailto:mrinalmayank7@gmail.com"><img src="RELATIVE_PATH_TO_IMAGE></img></a>
+<a href="https://www.linkedin.com/in/mrinal-mayank-bb3112200/"><img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/linkedin.png"></img></a>
+
+<a href="tel:7858832086"><img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/phone.png"></img></a>
+
+<a href="mailto:mrinalmayank7@gmail.com"><img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/mail.png"></img></a>
   
  
 
