@@ -13,9 +13,8 @@
 
 
  
-<h3 ><b>Technology Stack</b></h3>
+<h2 ><b>Technology Stack</b></h2>
 
-<h2></h2>
 
 <label><img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/c.png" height=38px> </img></label>
 <label>&nbsp; <img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/cplus.png" height=40px> </img></label>
