@@ -15,6 +15,8 @@
  
 <h3 ><b>Technology Stack</b></h3>
 
+<h2></h2>
+
 <label><img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/c.png" height=38px> </img></label>
 <label>&nbsp; <img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/cplus.png" height=40px> </img></label>
 <label>&nbsp; <img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/python.png" height=40px> </img></label>
@@ -28,7 +30,7 @@
 <label>&nbsp; <img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/atom.png" height=40px> </img></label>
 <label>&nbsp; <img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/eclipse.png" height=40px> </img></label>
 
-<br>
+<hr>
 
  ![Mrinal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrinalmayank7&show_icons=true&hide=contribs,issues)
 
