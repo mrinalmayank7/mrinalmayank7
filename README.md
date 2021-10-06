@@ -33,7 +33,6 @@
 <hr>
 
  ![Mrinal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrinalmayank7&show_icons=true&hide=contribs,issues)
-
  
 </div>
 
