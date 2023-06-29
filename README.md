@@ -30,9 +30,6 @@
 <label>&nbsp; <img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/atom.png" height=40px> </img></label>
 <label>&nbsp; <img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/eclipse.png" height=40px> </img></label>
 
-<hr>
-
- ![Mrinal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrinalmayank7&show_icons=true&hide=contribs,issues)
  
 </div>
 
