@@ -1,15 +1,14 @@
 
 <div align="center">
  
-<h1 >Hi there, I'm Mrinal</h1>
+<h2 >Hi there, I'm Mrinal</h2>
   
  <label><a href="https://www.linkedin.com/in/mrinal-mayank-bb3112200/"><img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/linkedin.png"></img></a> </label>
 <label><a href="https://api.whatsapp.com/send/?phone=+917858832086&text=Hello">&nbsp; <img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/phone.png"></img> </a></label>
 <label><a href="mailto:mrinalmayank7@gmail.com"> &nbsp; <img src="https://github.com/mrinalmayank7/mrinalmayank7/blob/main/IMAGES/mail.png"> </img></a></label>
 
   
-<h3 ><b>B.E in Computer Science & Engineering | Chandigarh University, 2019-2023</b></h3>
-<p>Experienced in  Full Stack Web Development, Django Framework, Machine Learning &  Data Mining , with relevant projects and research works. Holding a good command over programming languages , web technologies and working on real world problems . Willing to take new challenges and works to enhance my knowledge and experience in the related field of study.</p>  
+<h3 >As a highly motivated undergraduate pursuing Computer Science, I have gained extensive hands-on experience in software development and problem-solving. During my previous roles, I had the opportunity to work with the Samsung R&D Institute as a Research Intern, and also achieved noteworthy accomplishments as a Global Finalist in the Google Solution Challenge 2022 and a National Finalist in SAP Semicolon Hackathon 5.0.</p>  
 
 <br>
  
